@@ -36,9 +36,9 @@ export default function Home() {
             <div className="w-24 h-1 bg-amber-400 mx-auto mb-8"></div>
           </div>
           
-          <p className="text-white/90 text-xl md:text-2xl mb-4 max-w-3xl mx-auto leading-relaxed">
-            Experience luxury and ancient wonder at the heart of Egypt's most iconic destination
-          </p>
+                      <p className="text-white/90 text-xl md:text-2xl mb-4 max-w-3xl mx-auto leading-relaxed">
+              Experience luxury and ancient wonder at the heart of Egypt&apos;s most iconic destination
+            </p>
           
           <div className="mt-16 text-white/70 text-sm">
             <p>Scroll to discover more</p>
@@ -91,7 +91,7 @@ export default function Home() {
           <div className="max-w-4xl mx-auto">
             <h2 className="text-white text-4xl md:text-6xl font-bold mb-8">Opening Soon</h2>
             <p className="text-amber-100 text-xl md:text-2xl mb-12 leading-relaxed">
-              We're putting the finishing touches on your perfect Egyptian getaway. 
+              We&apos;re putting the finishing touches on your perfect Egyptian getaway. 
               Be among the first to experience luxury redefined.
             </p>
             
